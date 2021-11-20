@@ -4,5 +4,7 @@ function getnama() {
     return nama;
 }
 
-console.log(getnama());
+let hobi = "futsal"
+
+console.log(getnama() hobi);
 
