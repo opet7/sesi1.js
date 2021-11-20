@@ -6,5 +6,5 @@ function getnama() {
 
 let hobi = "futsal"
 
-console.log(getnama() hobi);
+console.log(hobi);
 
